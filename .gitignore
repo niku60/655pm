@@ -1,0 +1,4 @@
+hello.class
+*.php
+*.java
+!wo.java
